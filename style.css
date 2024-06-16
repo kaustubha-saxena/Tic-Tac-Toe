@@ -9,7 +9,7 @@
 .main{
  min-height: 100vh;
  min-width: 100%;
-background-image: linear-gradient(to right bottom, rgb(128, 83, 227), rgb(207, 97, 255));
+background-image: linear-gradient(to right bottom, rgb(114, 68, 214), rgb(207, 97, 255));
 }
 .heading{
     height: 20vh;
