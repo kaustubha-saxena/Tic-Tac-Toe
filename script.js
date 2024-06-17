@@ -7,7 +7,7 @@ for (i = 0; i < 9; i++) {
     document.body.querySelector(".container").children[i].innerHTML = " ";
 }
 
-const possibility = [123, 456, 789, 147, 258, 159, 357];
+const possibility = [123, 456, 789,369, 147, 258, 159, 357];
 
 function check_winner() {
     for (i = 0; i < possibility.length; i++) {
